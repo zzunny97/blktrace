@@ -3,16 +3,31 @@
 run_blkparse on eternity8/sdb.blktrace.0
 using tracefile eternity8/sdb
 0sec: 0
-0sec: 0
-3sec: 0
-18sec: 19
-19sec: 12
-20sec: 279
-21sec: 330
-22sec: 5
-23sec: 0
+0sec: 269
+6sec: 0
+10sec: 0
+12sec: 168
+13sec: 252
+14sec: 242
+15sec: 289
+16sec: 295
+17sec: 303
+18sec: 294
+19sec: 307
+20sec: 317
+21sec: 19
+22sec: 4
+23sec: 2
 24sec: 0
 25sec: 0
+26sec: 0
 27sec: 0
-31sec: 2
+28sec: 0
+32sec: 0
+33sec: 0
+34sec: 0
+35sec: 0
+37sec: 2
+42sec: 0
+48sec: 0
 saving graph to trace.png
