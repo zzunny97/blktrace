@@ -1,0 +1,4 @@
+  File "./seekwatcher_seek", line 252
+    print "total frames is %d secs per frame = %.2f\n" % (total_frames,secs_per_frame)
+                                                                                     ^
+TabError: inconsistent use of tabs and spaces in indentation

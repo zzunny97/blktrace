@@ -1,0 +1,4 @@
+  File "./seekwatcher_tput", line 252
+    print "total frames is %d secs per frame = %.2f\n" % (total_frames,
+                                                     ^
+SyntaxError: invalid syntax
