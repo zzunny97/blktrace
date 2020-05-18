@@ -12,7 +12,7 @@ int main(int argc, char** argv) {
 	int time, seek;
 	memset(arr, -1, sizeof(arr));
 	for(int i=1; i<=10; i++) {
-		string input_file = "/home/velox/blktrace/eternity" + to_string(i) + "/seekwatcher_seek";
+		string input_file = "/home/velox/git/blktrace/eternity" + to_string(i) + "/seekwatcher_seek";
 		ifstream in(input_file);
 		if(in.is_open()) {
 			while(!in.eof()) {
