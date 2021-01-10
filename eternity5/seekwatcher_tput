@@ -1,0 +1,41 @@
+/home/velox4/.local/lib/python2.7/site-packages/matplotlib/cbook/deprecation.py:107: MatplotlibDeprecationWarning: Adding an axes using the same arguments as a previous axes currently reuses the earlier instance.  In a future version, a new instance will always be created and returned.  Meanwhile, this warning can be suppressed, and the future behavior ensured, by passing a unique label to each axes instance.
+  warnings.warn(message, mplDeprecation, stacklevel=1)
+run_blkparse on eternity5/sdb.blktrace.0
+using tracefile eternity5/sdb
+0sec: 0
+0sec: 0
+2sec: 0
+5sec: 0
+10sec: 0
+12sec: 0
+16sec: 0
+19sec: 20
+20sec: 285
+21sec: 451
+22sec: 324
+23sec: 264
+24sec: 263
+25sec: 264
+26sec: 267
+27sec: 287
+28sec: 342
+29sec: 350
+30sec: 321
+31sec: 337
+32sec: 338
+33sec: 318
+34sec: 323
+35sec: 329
+36sec: 308
+37sec: 311
+38sec: 363
+39sec: 380
+40sec: 313
+41sec: 236
+42sec: 175
+43sec: 76
+49sec: 0
+54sec: 0
+58sec: 0
+62sec: 0
+saving graph to trace.png
