@@ -8,7 +8,7 @@ ssh eternity7 sudo blktrace --output-dir=/home/velox/blktrace/eternity7 -d /dev/
 ssh eternity8 sudo blktrace --output-dir=/home/velox/blktrace/eternity8 -d /dev/sdb &
 ssh eternity9 sudo blktrace --output-dir=/home/velox/blktrace/eternity9 -d /dev/sdb &
 ssh eternity10 sudo blktrace --output-dir=/home/velox/blktrace/eternity10 -d /dev/sdb &
-ssh eternity11 sudo blktrace --output-dir=/home/velox/blktrace/eternity1 -d /dev/sdb &
-ssh eternity12 sudo blktrace --output-dir=/home/velox/blktrace/eternity2 -d /dev/sda &
+#ssh eternity11 sudo blktrace --output-dir=/home/velox/blktrace/eternity11 -d /dev/sdb &
+#ssh eternity12 sudo blktrace --output-dir=/home/velox/blktrace/eternity12 -d /dev/sda &
 
 wait
