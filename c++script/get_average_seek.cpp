@@ -45,7 +45,7 @@ int main(int argc, char** argv) {
 	for(int i=0; i<1000; i++) {
 		if(arr[i] != -1) {
 			//cout << i << "sec: " << (double)arr[i] / 20 << endl;
-			cout << i << "sec: " << (double)arr[i] / 20 << endl;
+			cout << i << "sec: " << (double)arr[i] / 8 << endl;
 		}
 	}
 }
